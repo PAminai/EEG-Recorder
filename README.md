@@ -6,19 +6,19 @@ This page will be updated soon . . .
 Author: Pouya Aminaie
 
 
-#Introduction
+# Introduction
 
-#Hardware Design
+# Hardware Design
 
-#Software Design
+# Software Design
 
-#Signal Processing
+# Signal Processing
 
-#Results
+# Results
 
-#Conclusions
+# Conclusions
 
-#Appendix
+# Appendix
 
 
 
