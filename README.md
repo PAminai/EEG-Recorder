@@ -7,15 +7,21 @@ Author: Pouya Aminaie
 
 # Hardware Design
 
+___
 # Software Design
 
+___
 # Signal Processing
 
+___
 # Results
 
+___
 # Conclusions
 
+___
 # Appendix
 
+___
 
 
