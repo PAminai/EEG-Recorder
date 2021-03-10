@@ -1,6 +1,4 @@
-/* Microprocessor course project
- * fNIRS.c
- * Created: 7/2/2019 11:34:48 AM
+/* This is the code for EEG Recording via internnal ADC of micro and USB to TTL for serial communication
  * Programmer: Pouya
  */
 
