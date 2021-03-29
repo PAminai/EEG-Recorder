@@ -3,6 +3,8 @@ This is the home page for my B.Sc. project reports and updates. This page will b
 
 Author: Pouya Aminaie
 
+Email: pouya.aminaie@gmail.com
+
 ___
 # Hardware Design
 
