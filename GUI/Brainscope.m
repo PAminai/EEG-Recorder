@@ -94,15 +94,15 @@ function pushbutton1_Callback(hObject, eventdata, handles)
 % Dataset 1 : used for Start button
 A=[];
 % Creating Serial Objects
-IR=serial('COM5','BaudRate',9600,'DataBits',8);
-fopen(IR);
+EEG=serial('COM5','BaudRate',9600,'DataBits',8);
+fopen(EEG);
 
 % Reading Data From COM5
 for i=1:50
-    data=fread(IR,1);
+    data=fread(EEG,1);
     A=[A data];
 end
-fclose(IR);
+fclose(EEG);
 
 Y=A;
 handles.Y = Y;
