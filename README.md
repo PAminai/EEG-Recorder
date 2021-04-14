@@ -1,5 +1,5 @@
 # Introduction
-This is the home page for my B.Sc. project reports and updates. You can find all project materials avobe. Project reports and description will be adde soon . . .
+This is the home page for my B.Sc. project reports and updates. You can find all project materials avobe. Project reports and description will be added soon . . .
 
 Author: Pouya Aminaie
 
