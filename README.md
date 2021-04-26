@@ -6,7 +6,7 @@ Author: Pouya Aminaie
 Email: pouya.aminaie@gmail.com
 
 ___
-# Hardware Design
+# Electronic Design
 
 ___
 # Mechanical Design
