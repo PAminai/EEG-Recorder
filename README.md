@@ -9,7 +9,10 @@ ___
 # Hardware Design
 
 ___
-# Software Design
+# Mechanical Design
+
+___
+# Software Development
 
 ___
 # Signal Processing
