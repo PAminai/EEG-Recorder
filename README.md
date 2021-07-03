@@ -1,5 +1,5 @@
 # Introduction
-This is the home page for my bachelor's project reports and updates. You can find all project materials avobe. Technical reports and description will be added soon . . .
+This is the home page for my bachelor's project reports and updates. You can find all project materials here. Technical reports and description will be added soon . . .
 
 Author: Pouya Aminaie
 
