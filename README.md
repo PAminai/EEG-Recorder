@@ -1,31 +1,11 @@
 # Introduction
-This is the home page for my bachelor's project reports and updates. You can find all project materials here. Technical reports and description will be added soon . . .
+This is the home page for my bachelor's project reports and updates. You can find all the project materials here.
 
 Author: Pouya Aminaie
 
 Email: pouya.aminaie@gmail.com
 
 ___
-# Electronic Design
 
-___
-# Mechanical Design
-
-___
-# Software Development
-
-___
-# Signal Processing
-
-___
-# Results
-
-___
-# Conclusions
-
-___
-# Appendix
-
-___
 
 
